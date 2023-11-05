@@ -1,0 +1,42 @@
+Conference Attendance
+
+Objective: The objective of this assignment is to encourage students to stay updated with the latest developments in Hyperledger by attending conferences, meetups, or events related to Hyperledger projects.
+
+Assignment Description:
+
+In this assignment, students will actively participate in a Hyperledger-related conference, meetup, or event that is either happening in their region or available online. The goal is to engage with the Hyperledger community, gain insights into the latest developments, and expand their knowledge about Hyperledger technologies.
+
+Students will be required to attend the event, take detailed notes on key presentations, discussions, workshops, or any other relevant sessions related to Hyperledger projects. After attending the event, they will write a summary report that highlights the most significant insights, trends, and takeaways from the event. The report should also discuss how attending the event has enriched their understanding of Hyperledger technologies.
+
+Instructions:
+
+Find a Hyperledger Event:
+
+Research and find a Hyperledger-related conference, meetup, or event that you can attend. You can choose an event that is happening in your region or one that is available online.
+Attend the Event:
+
+Attend the event either in person or online.
+Take thorough notes during key presentations, discussions, workshops, or any sessions that focus on Hyperledger projects.
+Summary Report:
+
+Write a summary report of the event, including the following:
+Overview of the event, including its name, date, location (if in-person), and a brief description.
+Detailed notes on key presentations, discussions, or workshops related to Hyperledger.
+Highlight the most significant insights, trends, and takeaways.
+Discuss how the event has contributed to your understanding of Hyperledger technologies.
+Submission Requirements:
+
+Students are required to submit a report document that includes:
+
+An overview of the attended event.
+Detailed notes on key sessions related to Hyperledger.
+Highlighted insights, trends, and takeaways.
+A discussion on how attending the event enriched their understanding of Hyperledger.
+Grading Criteria:
+
+This assignment will be evaluated based on the following criteria:
+
+Attendance at a relevant Hyperledger event.
+Quality and completeness of the notes taken.
+Clarity and depth of insights shared in the summary report.
+The overall impact of the event on the student's understanding of Hyperledger technologies.

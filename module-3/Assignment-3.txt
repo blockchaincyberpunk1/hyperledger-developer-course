@@ -1,0 +1,43 @@
+Chaincode Development in Node.js
+
+Objective: Further explore chaincode development, this time using Node.js for Hyperledger Fabric, and apply it to a different use case than the previous Go chaincode assignment.
+
+Assignment Description:
+
+In this assignment, students will delve into chaincode development using the Node.js programming language for Hyperledger Fabric. They will select a different use case from the one used in the previous Go chaincode assignment, design the data structure for their new use case, and implement the relevant functions. Students will document the development process and demonstrate the successful execution of their Node.js chaincode on their local Fabric network.
+
+Instructions:
+
+Use Case Selection:
+
+Instruct students to choose a distinct use case that differs from the one they used in the Go chaincode assignment.
+Ask them to define the data structure for their selected use case, including the attributes and properties relevant to it.
+Chaincode Development in Node.js:
+
+Provide a template or basic structure for a Node.js chaincode to help students get started.
+Guide students to write the Node.js code for their chaincode, which should include functions for creating, updating, and querying assets specific to their chosen use case.
+Explain how to use the Hyperledger Fabric SDK for Node.js to interact with the Fabric network from within the chaincode.
+Local Network Setup:
+
+Ensure that students have already completed Homework Assignment 1 and have a local Hyperledger Fabric network running using Docker and Docker Compose.
+Testing and Demonstration:
+
+Instruct students to deploy their Node.js chaincode onto their local Fabric network.
+Provide sample transactions or actions that students should execute to demonstrate the functionality of their chaincode.
+Encourage students to capture the demonstration in a video or with a set of detailed steps and accompanying screenshots.
+Documentation:
+
+Require students to document the following aspects:
+Description of the newly chosen use case and its data structure.
+Explanation of the code within their Node.js chaincode.
+Steps for deploying and testing the chaincode on the local Fabric network.
+The demonstration of the Node.js chaincode's functionality, including sample transactions or actions.
+Grading Criteria:
+
+This assignment will be evaluated based on the following criteria:
+
+Successful implementation of the Node.js chaincode.
+Effective documentation of the new use case, data structure, and code.
+Accurate deployment and testing of the chaincode on the local Fabric network.
+Clear and effective demonstration of the Node.js chaincode's functionality.
+Quality of documentation and adherence to assignment guidelines.

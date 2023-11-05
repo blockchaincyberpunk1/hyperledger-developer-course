@@ -1,0 +1,34 @@
+ Distributed Ledger Technology Overview
+
+Objective: Understand the foundational concepts of distributed ledger technology (DLT).
+
+Assignment Description:
+
+In this assignment, students will delve into the fundamental concepts of distributed ledger technology (DLT). They will explore the core principles of DLT, its significance in the context of blockchain technology, and the various consensus mechanisms that underpin DLT systems. By the end of this assignment, students should have a solid understanding of the basics of DLT and how it relates to blockchain.
+
+Instructions:
+
+Definition of Distributed Ledgers:
+
+Start by defining what distributed ledgers are. Explain how they differ from traditional centralized ledgers or databases.
+Provide a concise overview of the key characteristics of distributed ledgers, such as decentralization, immutability, and transparency.
+Importance of DLT in Blockchain:
+
+Elaborate on the role of distributed ledger technology within the broader context of blockchain.
+Discuss why DLT is a foundational concept in blockchain systems and how it addresses the challenges of centralized databases.
+Consensus Mechanisms:
+
+Introduce students to the concept of consensus mechanisms, which are essential for maintaining the integrity of distributed ledgers.
+Explain two common consensus mechanisms: Proof of Work (PoW) and Proof of Stake (PoS).
+Describe how PoW and PoS work, their advantages, and their limitations.
+Comparative Analysis:
+
+Encourage students to create a comparative analysis between PoW and PoS. They should discuss factors like energy efficiency, security, and decentralization.
+Ask students to provide real-world examples of blockchain platforms that use each consensus mechanism.
+Grading Criteria:
+
+Your assignment will be evaluated based on the following criteria:
+
+The clarity and accuracy of the explanations regarding distributed ledger technology (DLT) and its importance in blockchain.
+The depth of understanding demonstrated in the discussion of consensus mechanisms, including PoW and PoS.
+The ability to provide real-world examples and practical insights into the use of these consensus mechanisms in blockchain systems.

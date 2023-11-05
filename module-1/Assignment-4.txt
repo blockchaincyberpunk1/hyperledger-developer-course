@@ -1,0 +1,41 @@
+Cryptography in Blockchain
+
+Objective: Study the role of cryptography in blockchain technology.
+
+Assignment Description:
+
+In this assignment, students will delve into the critical role of cryptography in ensuring the security and integrity of blockchain networks. They will explore the fundamental cryptographic principles that underlie blockchain technology, including digital signatures and hash functions. By the end of this assignment, students should have a solid understanding of how cryptography is employed to secure transactions and data on a blockchain network.
+
+Instructions:
+
+Digital Signatures:
+
+Begin by explaining the concept of digital signatures in the context of blockchain.
+Describe how digital signatures work, emphasizing the principles of asymmetric cryptography.
+Discuss the advantages of digital signatures in ensuring data authenticity and integrity on a blockchain.
+Hash Functions:
+
+Introduce hash functions as a fundamental cryptographic tool in blockchain.
+Explain the properties of cryptographic hash functions, such as determinism, preimage resistance, and collision resistance.
+Discuss the role of hash functions in creating secure and immutable blockchain records.
+Cryptography in Transaction Security:
+
+Explore how cryptographic techniques, including digital signatures, are used to secure transactions on a blockchain network.
+Describe the process of signing and verifying transactions using cryptographic keys.
+Provide real-world examples of how transaction security is maintained through cryptography.
+Cryptography in Data Integrity:
+
+Discuss how cryptographic hash functions are applied to ensure data integrity in blockchain.
+Explain how data is hashed and stored within blockchain blocks.
+Highlight the role of hash pointers in linking blocks and maintaining the integrity of the entire blockchain.
+Cryptographic Challenges and Future Trends:
+
+Encourage students to consider the challenges and potential future developments in blockchain cryptography.
+Discuss topics like quantum computing threats to current cryptographic schemes and emerging cryptographic techniques.
+Grading Criteria:
+
+Your assignment will be evaluated based on the following criteria:
+
+The clarity and accuracy of explanations regarding digital signatures and hash functions in the context of blockchain.
+The ability to demonstrate how cryptographic principles are used to secure transactions and data on a blockchain network.
+The depth of understanding of the cryptographic challenges and future trends in blockchain technology.

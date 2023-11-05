@@ -1,0 +1,34 @@
+Implementing Access Control in Hyperledger Fabric
+
+Objective: The objective of this assignment is to guide students through the practical implementation of access control in a Hyperledger Fabric network. Students will configure access control policies, create role-based access control (RBAC) rules, and understand the significance of access control in ensuring data confidentiality and integrity.
+
+Assignment Description:
+
+In this assignment, students will get hands-on experience in setting up access control mechanisms within a Hyperledger Fabric network. They will define policies that specify which users or organizations are allowed to perform specific actions, and they will create RBAC rules to manage roles and permissions.
+
+Instructions:
+
+Access Control Policy Configuration:
+
+Instruct students to configure access control policies for a sample Fabric network. They should define policies that control access to specific network resources, such as channels, smart contracts, or ledger data.
+Encourage students to specify which organizations or users are granted read and write permissions for various network components.
+Role-Based Access Control (RBAC) Rules:
+
+Explain the concept of RBAC in the context of a Fabric network. Describe how RBAC simplifies access control by grouping users into roles and associating roles with specific permissions.
+Task students with creating RBAC rules for their Fabric network. They should define roles (e.g., admin, member, auditor) and determine the permissions associated with each role.
+Access Control Demonstration:
+
+Ask students to demonstrate the practical application of access control in their Fabric network. They should show how the access control policies and RBAC rules are enforced by the network.
+Students can simulate scenarios where certain users or organizations attempt to perform actions that are either permitted or denied based on the defined access control.
+Importance of Access Control Discussion:
+
+Conclude the assignment with a discussion on the critical importance of access control in securing a blockchain network. Emphasize how access control measures protect data confidentiality and integrity and prevent unauthorized actions.
+Invite students to share insights into how access control aligns with privacy and compliance requirements in enterprise blockchain applications.
+Grading Criteria:
+
+This assignment will be evaluated based on the following criteria:
+
+The correctness and completeness of access control policy configuration and RBAC rule creation.
+The clarity of the access control demonstration, showcasing the practical enforcement of access control measures.
+Active participation in the discussion, demonstrating an understanding of the significance of access control in blockchain security.
+The organization and clarity of the assignment documentation.

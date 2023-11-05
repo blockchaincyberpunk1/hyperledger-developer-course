@@ -1,0 +1,36 @@
+Network Security and Permissions
+
+Objective: The objective of this assignment is to emphasize the importance of security in a Hyperledger Fabric network. Students will research and implement common security measures and best practices to enhance the security of their Fabric network, including TLS encryption and access control.
+
+Assignment Description:
+
+In this assignment, students will focus on securing their existing Hyperledger Fabric network. They will implement security measures and best practices to protect the network and its components from various threats.
+
+Instructions:
+
+Research Security Measures:
+
+Instruct students to research and identify common security measures and best practices for securing a Hyperledger Fabric network. This research should include topics such as Transport Layer Security (TLS), access control, and other relevant security considerations.
+TLS Encryption:
+
+Guide students through the process of implementing TLS encryption for their Fabric network. They should enable TLS for communication between nodes and ensure that all communication is encrypted.
+Encourage students to document the TLS configuration process step by step, including any challenges they encountered.
+Access Control:
+
+Explain the concept of access control within a Fabric network. Instruct students to implement access control measures to restrict unauthorized access to their network components.
+Encourage them to define policies and rules for access control, specifying which identities or organizations have permissions to perform specific actions.
+Security Documentation:
+
+Require students to document the security measures they implemented in detail. This documentation should include the TLS configuration, access control policies, and any other security-related settings.
+Ask students to provide explanations for each security measure and its relevance to protecting the Fabric network.
+Security Analysis:
+
+Instruct students to analyze how these security measures enhance the overall security of their Fabric network. They should consider the potential threats these measures mitigate and the impact on network integrity and confidentiality.
+Grading Criteria:
+
+This assignment will be evaluated based on the following criteria:
+
+Successful implementation of TLS encryption for communication within the Fabric network.
+Effective implementation of access control measures to restrict unauthorized access.
+The quality and completeness of the security documentation, including detailed configurations and explanations.
+A thoughtful security analysis that considers the relevance and impact of the implemented security measures.

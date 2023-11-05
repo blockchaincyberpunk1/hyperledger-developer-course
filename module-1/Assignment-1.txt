@@ -1,0 +1,40 @@
+Hyperledger Projects Research
+
+Objective: Familiarize students with various Hyperledger projects.
+
+Assignment Description:
+
+In this assignment, students will dive into the world of Hyperledger by researching and providing insights into one of the prominent Hyperledger projects. By exploring the goals, use cases, and architecture of a specific project, students will gain a foundational understanding of how these projects contribute to the broader Hyperledger ecosystem.
+
+Instructions:
+
+Project Selection:
+
+Ask students to choose one of the following Hyperledger projects to research: Hyperledger Fabric, Hyperledger Sawtooth, or Hyperledger Besu.
+Make it clear that each student should select a different project to ensure diversity in research.
+Research and Overview:
+
+Instruct students to thoroughly research the selected Hyperledger project.
+The research should cover the following key aspects:
+Goals: Explain the primary objectives and goals of the selected project within the Hyperledger ecosystem.
+Use Cases: Provide examples of real-world use cases where the project can be applied effectively.
+Architecture: Describe the architecture of the project, highlighting its core components and how they interact.
+Key Features:
+
+Ask students to identify and summarize the key features and capabilities of the selected Hyperledger project.
+Encourage them to focus on aspects that set the project apart from other blockchain platforms.
+Integration with Hyperledger Ecosystem:
+
+Discuss how the chosen project fits into the broader Hyperledger ecosystem.
+Explain any integrations, collaborations, or synergies it has with other Hyperledger projects.
+Presentation or Documentation:
+
+Students should create a concise document or presentation summarizing their research findings.
+Encourage the use of visuals, diagrams, or charts to aid in understanding.
+Grading Criteria:
+
+Your assignment will be evaluated based on the following criteria:
+
+The depth of research and understanding of the selected Hyperledger project's goals, use cases, and architecture.
+The clarity and quality of the overview, including key features and integration within the Hyperledger ecosystem.
+The presentation quality, including the use of visuals or diagrams to enhance comprehension.

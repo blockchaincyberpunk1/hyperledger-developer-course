@@ -1,0 +1,38 @@
+Fabric Network Topology Design
+
+Objective: The aim of this assignment is to familiarize students with different network topology options for Hyperledger Fabric and help them understand the implications of these choices. By designing a Fabric network topology for a specific use case, students will gain practical insights into how network architecture impacts the performance and functionality of a blockchain network.
+
+Assignment Description:
+
+In this assignment, students will focus on designing a Hyperledger Fabric network topology that aligns with the requirements of a chosen use case (e.g., supply chain, finance). They will create a network diagram to illustrate the layout of organizations, channels, peers, and orderers within their proposed topology.
+
+Instructions:
+
+Select a Use Case:
+
+Instruct students to choose a specific use case for which they will design a Hyperledger Fabric network. The use case should have distinct requirements that influence the network's design.
+Topology Design:
+
+Ask students to design a Fabric network topology that caters to the needs of the chosen use case. They should consider factors such as:
+The number and role of organizations (e.g., participants in a supply chain, financial institutions).
+The layout of channels to facilitate secure and efficient communication.
+The configuration of peers (endorsing, committing, and anchor peers).
+The placement and configuration of orderers for consensus.
+Any additional components or considerations specific to the use case.
+Encourage students to think critically about the design choices and how they address the unique requirements of their selected use case.
+Network Diagram:
+
+Require students to create a detailed network diagram that visually represents their proposed Fabric network topology. They can use diagramming tools, such as drawing software or online platforms, to create the diagram.
+The diagram should clearly depict the layout of organizations, channels, peers, and orderers within the network.
+Documentation:
+
+Ask students to provide a written explanation of their network design choices. They should explain how each component of the network contributes to achieving the goals of the chosen use case.
+Students should also discuss any trade-offs or considerations they had to make during the design process.
+Grading Criteria:
+
+This assignment will be evaluated based on the following criteria:
+
+The appropriateness of the chosen use case and its alignment with the network design.
+The clarity and completeness of the network diagram.
+The comprehensiveness and rationale behind the network design choices.
+The ability to articulate how the network design addresses the specific requirements of the use case.

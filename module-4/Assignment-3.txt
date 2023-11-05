@@ -1,0 +1,45 @@
+Network Configuration Files
+
+Objective: The objective of this assignment is to familiarize students with the configuration files used in a Hyperledger Fabric network and teach them how to modify these files to make specific network changes. Students will gain hands-on experience in understanding and manipulating configuration files to customize network settings.
+
+Assignment Description:
+
+In this assignment, students will explore the key configuration files used in a Hyperledger Fabric network, such as configtx.yaml, crypto-config.yaml, and core.yaml. They will learn about the roles of these files in defining the network's structure, cryptographic material, and node behavior.
+
+Students will then modify one or more of these configuration files to make specific changes to their Fabric network. These changes could include adding new organizations, peers, or channels, among others. Students must document the purpose of these changes and discuss the potential impact on the network.
+
+Instructions:
+
+Configuration File Overview:
+
+Begin by providing students with an overview of the various configuration files used in a Hyperledger Fabric network, including configtx.yaml, crypto-config.yaml, and core.yaml.
+Explain the purpose and roles of these files in defining network parameters, cryptographic material, and node settings.
+Select Network Changes:
+
+Instruct students to choose one or more specific changes they want to make to their Fabric network. These changes could include:
+Adding new organizations.
+Adding new peers to existing organizations.
+Creating new channels.
+Modifying consensus settings.
+Ensure that students clearly define the purpose and significance of the changes they intend to make.
+File Modification:
+
+Guide students through the process of modifying the relevant configuration file(s) to implement the chosen changes.
+Encourage them to use comments to explain the modifications made and their intended effects.
+Documentation:
+
+Require students to document the following:
+The changes made to the configuration file(s).
+The purpose and reasoning behind each change.
+The potential impact of these changes on the network's structure or behavior.
+Testing and Analysis:
+
+Ask students to restart their Fabric network with the modified configuration and test its functionality.
+Analyze the results and discuss any observed differences or improvements resulting from the configuration changes.
+Grading Criteria:
+
+This assignment will be evaluated based on the following criteria:
+
+The successful modification of the configuration file(s) to implement the chosen network changes.
+The clarity of documentation, including explanations of the purpose, impact, and reasoning behind the changes.
+The thoroughness of testing and analysis, including discussions of observed network behavior.

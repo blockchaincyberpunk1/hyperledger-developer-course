@@ -1,0 +1,36 @@
+Hyperledger Fabric Components
+
+Objective: Explore the core components of Hyperledger Fabric and understand their roles and responsibilities within a Fabric network.
+
+Assignment Description:
+
+In this assignment, students will dive into the fundamental components of Hyperledger Fabric and gain an understanding of how they work together to enable a permissioned, enterprise-grade blockchain network. They will describe the roles and responsibilities of peers, orderers, and clients and create a diagram illustrating the interaction between these components during a transaction in Fabric.
+
+Instructions:
+
+Hyperledger Fabric Overview:
+
+Provide a brief introduction to Hyperledger Fabric, including its key features and benefits for enterprise blockchain solutions.
+Core Components Description:
+
+Describe the roles and responsibilities of the following core components within a Hyperledger Fabric network:
+Peers: Explain what peers are, their different types (endorsing peers, committing peers), and their functions in processing transactions and maintaining the ledger.
+Orderers: Define the role of orderers in Fabric, including their responsibility for managing the order of transactions and creating blocks.
+Clients: Explain the role of clients as entities that interact with the Fabric network, submitting transaction proposals and receiving transaction results.
+Transaction Flow Diagram:
+
+Create a clear and concise diagram that illustrates the interaction between these core components during a typical transaction in Hyperledger Fabric. Show how clients initiate transactions, how peers endorse, commit, and validate transactions, and how orderers order and deliver transactions to peers.
+Transaction Lifecycle Explanation:
+
+Provide a step-by-step explanation of the transaction lifecycle within your diagram, detailing what happens at each stage, including transaction proposal, endorsement, ordering, validation, and commitment.
+Use Case Example:
+
+Include a brief example or scenario where these core components collaborate to execute a transaction. Explain how the components in your diagram would function in this real-world use case.
+Grading Criteria:
+
+Your assignment will be evaluated based on the following criteria:
+
+The accuracy and clarity of your descriptions of the roles and responsibilities of peers, orderers, and clients.
+The quality and completeness of your transaction flow diagram, including labels and annotations.
+The accuracy and comprehensiveness of your explanation of the transaction lifecycle.
+The relevance and clarity of the use case example provided.

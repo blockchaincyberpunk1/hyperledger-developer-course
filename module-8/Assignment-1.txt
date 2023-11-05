@@ -1,0 +1,51 @@
+Hyperledger Community Contribution
+
+Objective: The objective of this assignment is to encourage students to actively engage with the Hyperledger developer community, contribute to an open-source project, and reflect on their experiences.
+
+Assignment Description:
+
+In this assignment, students will actively participate in the Hyperledger developer community by selecting an open-source project within the Hyperledger ecosystem that interests them. They will join community discussions, forums, or mailing lists related to the chosen project and contribute in a meaningful way. Contributions can include fixing a bug, improving documentation, proposing a new feature, or any other valuable contribution that benefits the project.
+
+Students will document their entire journey, from selecting the project to making their contribution. They should reflect on their experiences, challenges faced, and what they have learned from interacting with the Hyperledger community and contributing to an open-source project.
+
+Instructions:
+
+Select a Hyperledger Project:
+
+Choose an open-source project within the Hyperledger ecosystem that interests you. You can explore projects like Hyperledger Fabric, Sawtooth, Besu, or any other project that aligns with your interests.
+Community Engagement:
+
+Join the relevant community discussions, forums, or mailing lists related to the selected project.
+Actively participate in discussions, share your insights, or ask questions to engage with the community.
+Contribution:
+
+Identify an area where you can contribute to the project. This can include but is not limited to:
+Fixing a bug or issue.
+Enhancing project documentation.
+Proposing a new feature or improvement.
+Make your contribution to the project following the community guidelines and best practices.
+Documentation:
+
+Document your entire journey, starting from the selection of the project to the contribution itself.
+Explain the nature of your contribution, the problem you addressed, or the improvement you made.
+Include any code, documentation, or relevant materials related to your contribution.
+Reflection:
+
+Write a reflective essay or report on your experiences.
+Discuss the challenges you encountered during the contribution process and how you overcame them.
+Share what you learned from interacting with the Hyperledger community and contributing to an open-source project.
+Submission Requirements:
+
+Students are required to submit a document or report that includes the following:
+
+Identification of the selected Hyperledger project.
+Documentation of community engagement, discussions, and interactions.
+Description of the contribution made to the project.
+A reflective essay discussing challenges faced and lessons learned.
+Grading Criteria:
+
+This assignment will be evaluated based on the following criteria:
+
+Activeness and meaningful engagement with the Hyperledger community.
+Quality and impact of the contribution to the selected project.
+Clarity and depth of reflection on the experiences and lessons learned.

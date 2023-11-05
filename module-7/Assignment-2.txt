@@ -1,0 +1,45 @@
+Deploying a Test Hyperledger Fabric Network
+
+Objective: The objective of this assignment is to provide students with hands-on experience in deploying a test Hyperledger Fabric network, understand the role of Docker containers in Fabric network deployment, and gain insights into common deployment issues and their solutions.
+
+Assignment Description:
+
+In this assignment, students will document the step-by-step process of setting up a test Hyperledger Fabric network using Docker Compose or another suitable tool. They will also explain the significance of Docker containers in the context of Fabric network deployment and provide troubleshooting tips for common issues that may arise during the deployment process.
+
+Instructions:
+
+Setting Up a Test Network:
+
+Choose a suitable tool for setting up a test Hyperledger Fabric network. Docker Compose is recommended, but you can explore other options if desired.
+Document the step-by-step process of deploying the Fabric network.
+Include instructions for creating organizations, channels, peers, and orderers.
+Explain how to install and instantiate a sample chaincode on the network.
+Docker Containers and Fabric:
+
+Explain the role of Docker containers in the deployment of a Hyperledger Fabric network.
+Describe the benefits of using containerization for isolating components and ensuring reproducibility.
+Troubleshooting Tips:
+
+Provide a list of common issues or errors that students may encounter during the deployment process.
+Offer troubleshooting tips and solutions for each issue.
+Include guidance on how to verify the successful deployment of the Fabric network.
+Testing and Validation:
+
+Demonstrate the functionality of the deployed test network by executing sample transactions using chaincode.
+Ensure that students understand how to interact with the network for testing purposes.
+Submission Requirements:
+
+Students are required to submit a document or report that includes the following:
+
+A detailed, step-by-step guide for setting up a test Hyperledger Fabric network.
+Explanations of the role of Docker containers in Fabric network deployment and the benefits of containerization.
+Troubleshooting tips and solutions for common deployment issues.
+Evidence of successfully testing and validating the deployed test network.
+Grading Criteria:
+
+This assignment will be evaluated based on the following criteria:
+
+Clarity and completeness of the deployment guide.
+Accuracy in explaining the role of Docker containers and their benefits.
+Effectiveness of troubleshooting tips and solutions.
+Successful demonstration of the test network's functionality.

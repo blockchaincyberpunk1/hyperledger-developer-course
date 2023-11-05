@@ -1,0 +1,53 @@
+Chaincode Development in Hyperledger Fabric
+
+Objective: The objective of this assignment is to provide students with practical experience in developing, testing, and deploying chaincode for a Hyperledger Fabric network.
+
+Assignment Description:
+
+In this assignment, students will select a specific use case (e.g., supply chain, asset management) and design a chaincode solution to address the chosen use case. They will then write, test, and deploy the chaincode logic to demonstrate its functionality within a Fabric network. Additionally, students are expected to document any challenges they faced during development and describe any optimizations made to improve performance.
+
+Instructions:
+
+Select a Use Case:
+
+Choose a real-world use case that aligns with your interests or expertise (e.g., supply chain, healthcare, identity management).
+Provide a brief description of the selected use case and its relevance.
+Design the Chaincode:
+
+Define the data structures and assets relevant to your use case.
+Outline the functions and logic that your chaincode will implement to interact with the ledger.
+Chaincode Development:
+
+Write the chaincode logic using a programming language of your choice (e.g., Go, Node.js).
+Implement the functions that create, update, and query data within your chosen use case.
+Test the chaincode thoroughly to ensure its functionality.
+Deployment and Demonstration:
+
+Deploy the chaincode on a Hyperledger Fabric network, which can be a local development network.
+Demonstrate the functionality of your chaincode by executing transactions and querying data.
+Include screenshots or code snippets to illustrate the successful execution of transactions.
+Challenges and Optimizations:
+
+Document any challenges or obstacles you encountered during the development process.
+Describe any optimizations or improvements you made to enhance the performance, efficiency, or security of your chaincode.
+Conclusion:
+
+Summarize your key learnings from this chaincode development assignment.
+Submission Requirements:
+
+Students are required to submit a document or report that includes the following:
+
+Description of the selected use case.
+Design of the chaincode, including data structures and functions.
+Code snippets or code files containing the chaincode logic.
+Deployment details and demonstration of chaincode functionality.
+Documentation of challenges faced and optimizations made.
+Grading Criteria:
+
+This assignment will be evaluated based on the following criteria:
+
+Appropriateness and clarity of the selected use case.
+Completeness and correctness of the chaincode logic.
+Successful deployment and demonstration of chaincode functionality.
+Effective documentation of challenges and optimizations.
+Overall organization and presentation of the assignment.

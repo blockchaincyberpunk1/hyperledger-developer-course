@@ -1,0 +1,48 @@
+Smart Contracts and Membership in Hyperledger Fabric
+
+Objective: The objective of this assignment is to investigate the relationship between smart contracts and membership services in Hyperledger Fabric.
+
+Assignment Description:
+
+In this assignment, students will explore how smart contracts interact with membership services to validate transactions and enforce access control in a Hyperledger Fabric network. They will provide examples of scenarios where smart contracts leverage user identities to make authorization decisions and discuss the advantages of using Fabric's membership services for identity management in blockchain networks.
+
+Instructions:
+
+Smart Contracts and Membership Services:
+
+Explain the role of smart contracts in Hyperledger Fabric and how they facilitate business logic execution.
+Describe the importance of membership services in managing user identities and cryptographic keys within a Fabric network.
+Transaction Validation with Smart Contracts:
+
+Provide a detailed explanation of how smart contracts validate transactions in Fabric.
+Discuss the process of endorsing transactions and how it relies on cryptographic identities.
+Access Control and Smart Contracts:
+
+Provide examples of scenarios where smart contracts use user identities to make access control decisions.
+Explain how smart contracts can check user roles or permissions to determine if a transaction is authorized.
+Advantages of Fabric's Membership Services:
+
+Discuss the advantages and benefits of using Hyperledger Fabric's built-in membership services for identity management.
+Highlight how Fabric's membership services simplify identity management, certificate issuance, and revocation.
+Real-World Use Cases:
+
+Share real-world use cases or applications where the integration of smart contracts and membership services in Hyperledger Fabric has provided significant advantages.
+Conclusion:
+
+Summarize the key takeaways regarding the relationship between smart contracts and membership services in Fabric and their advantages.
+Submission Requirements:
+
+Students are required to submit a document or report that includes the following:
+
+Explanation of the role of smart contracts in Fabric.
+Discussion of how smart contracts validate transactions and interact with user identities.
+Examples of scenarios where smart contracts enforce access control.
+Explanation of the advantages of using Fabric's membership services.
+Grading Criteria:
+
+This assignment will be evaluated based on the following criteria:
+
+Clarity and depth of explanations regarding smart contracts and membership services.
+Quality and relevance of examples provided.
+Demonstrated understanding of the advantages of Fabric's membership services.
+Overall organization and presentation of the assignment.

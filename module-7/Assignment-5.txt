@@ -1,0 +1,44 @@
+Disaster Recovery Planning
+
+Objective: The objective of this assignment is to familiarize students with disaster recovery planning for Hyperledger Fabric networks. Students will learn about potential risks and disasters, develop a disaster recovery plan, and analyze a real-world case study of disaster recovery execution.
+
+Assignment Description:
+
+In this assignment, students will dive into the critical aspect of disaster recovery planning for Hyperledger Fabric networks. They will explore potential risks and disasters that could impact the availability and continuity of a Fabric network.
+
+Students will then develop a comprehensive disaster recovery plan that encompasses backup, redundancy, and failover strategies to ensure business continuity in the face of adversity. The plan should include detailed procedures for handling various disaster scenarios and restoring network operations.
+
+Furthermore, students will present a case study of a real-world scenario where a Hyperledger Fabric network faced a disaster. They should describe the nature of the disaster, the impact on network operations, and how the disaster recovery plan was executed to restore normalcy. Insights gained from the case study should be used to emphasize the importance of disaster recovery planning.
+
+Instructions:
+
+Identify Potential Risks and Disasters:
+
+Discuss and identify potential risks and disasters that could impact the availability and continuity of a Hyperledger Fabric network.
+Consider various scenarios, including hardware failures, data corruption, DDoS attacks, and natural disasters.
+Disaster Recovery Plan:
+
+Develop a comprehensive disaster recovery plan for the Fabric network.
+Include backup, redundancy, and failover strategies.
+Specify procedures for handling different disaster scenarios.
+Define roles and responsibilities during disaster recovery efforts.
+Real-World Case Study:
+
+Present a case study of a real-world scenario where a Fabric network experienced a disaster.
+Describe the nature of the disaster and its impact on network operations.
+Explain how the disaster recovery plan was executed to restore normal network functionality.
+Discuss the lessons learned and improvements made based on this experience.
+Submission Requirements:
+
+Students are required to submit a document or report that includes the following:
+
+Identification of potential risks and disasters for a Fabric network.
+A comprehensive disaster recovery plan that covers backup, redundancy, and failover strategies.
+A detailed case study of a real-world disaster and the execution of the disaster recovery plan.
+Grading Criteria:
+
+This assignment will be evaluated based on the following criteria:
+
+Thoroughness and relevance of identified risks and disasters.
+Quality and completeness of the disaster recovery plan.
+Clarity and depth of analysis in the real-world case study.

@@ -1,0 +1,40 @@
+Multi-Organization Fabric Network
+
+Objective: The objective of this assignment is to extend students' understanding of Hyperledger Fabric by guiding them through the setup of a multi-organization network. Students will learn how to configure channels and establish communication between organizations, enabling cross-organization transactions and data sharing.
+
+Assignment Description:
+
+In this assignment, students will build upon their existing Hyperledger Fabric network to create a multi-organization network. They will configure additional organizations, each with their own peers and orderers. The primary focus is on setting up channels that allow these organizations to communicate and conduct transactions.
+
+Instructions:
+
+Expansion of Organizations:
+
+Instruct students to extend their existing Hyperledger Fabric network by adding new organizations. They should choose a specific use case for this multi-organization network (e.g., supply chain, consortium network).
+Ensure that students define the roles and responsibilities of each organization in the context of the chosen use case.
+Peers and Orderers:
+
+Guide students through the process of adding new peers and orderers for each organization. Explain how to generate cryptographic materials for these entities.
+Ensure that students clearly document the configurations and cryptographic materials for each new peer and orderer.
+Channel Creation:
+
+Instruct students to create channels that enable communication between organizations. They should define the channel's purpose, such as data sharing or conducting transactions.
+Encourage them to document the channel configurations, including the participating organizations.
+Cross-Organization Transactions:
+
+Require students to demonstrate cross-organization transactions within their multi-organization network. This can involve creating and executing transactions that involve multiple organizations.
+Ensure that students provide a step-by-step demonstration of these transactions, including the use of chaincodes.
+Data Sharing:
+
+Ask students to showcase data sharing between organizations within the network. They should demonstrate how data can be shared securely across organizational boundaries.
+Documentation and Analysis:
+
+Require students to document the entire process, including configurations, steps, and any challenges faced during the setup.
+Encourage students to analyze the advantages and potential use cases of a multi-organization Fabric network compared to a single-organization network.
+Grading Criteria:
+
+This assignment will be evaluated based on the following criteria:
+
+Successful extension of the Fabric network to include multiple organizations with peers and orderers.
+The completeness of channel configurations and the demonstration of cross-organization transactions.
+The clarity of documentation and analysis, including explanations of the use case and the benefits of a multi-organization network.

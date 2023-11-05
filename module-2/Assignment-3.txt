@@ -1,0 +1,34 @@
+ Hyperledger Composer Overview
+
+Objective: Gain an understanding of Hyperledger Composer as a blockchain application development framework (Note: Hyperledger Composer is now a legacy project).
+
+Assignment Description:
+
+In this assignment, you will explore Hyperledger Composer, a now-legacy project that aimed to simplify and accelerate blockchain application development on Hyperledger Fabric. You will research and summarize its key features, capabilities, and design principles. Additionally, you will discuss scenarios where Hyperledger Composer could have been useful for rapid blockchain application development.
+
+Instructions:
+
+Research and Overview:
+
+Conduct research on Hyperledger Composer and its historical role in the Hyperledger ecosystem.
+Summarize the key features and capabilities of Hyperledger Composer, including its high-level architecture, components, and design principles.
+Explain how Hyperledger Composer aimed to simplify the development of blockchain applications.
+Use Cases and Scenarios:
+
+Discuss scenarios or use cases where Hyperledger Composer could have been a valuable tool for rapid blockchain application development. Consider industries and applications where simplified development and integration might be critical.
+Provide at least two examples of use cases or projects where Hyperledger Composer could have been beneficial, and explain why.
+Comparison (Optional):
+
+If you have experience with other blockchain development frameworks or tools, you can optionally compare Hyperledger Composer to these alternatives in terms of ease of use, flexibility, and suitability for various use cases.
+Future Considerations (Optional):
+
+Acknowledge that Hyperledger Composer is now considered a legacy project and discuss any successor projects or approaches within the Hyperledger ecosystem that address the same objectives.
+Grading Criteria:
+
+Your assignment will be evaluated based on the following criteria:
+
+Accurate and comprehensive overview of Hyperledger Composer's features and capabilities.
+Clear explanation of how Hyperledger Composer aimed to simplify blockchain application development.
+Thoughtful discussion of scenarios where Hyperledger Composer could have been useful, with well-explained use cases.
+(Optional) A meaningful comparison to other blockchain development frameworks or tools, if included.
+(Optional) Consideration of successor projects or approaches within the Hyperledger ecosystem, if mentioned.

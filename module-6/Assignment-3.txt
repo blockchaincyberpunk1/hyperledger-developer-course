@@ -1,0 +1,48 @@
+Membership Services and Identity Management in Hyperledger Fabric
+
+Objective: The objective of this assignment is to familiarize students with membership services, identity management, and user authentication in Hyperledger Fabric.
+
+Assignment Description:
+
+In this assignment, students will explore the role of membership services and the significance of identity management in a Hyperledger Fabric network. They will create a guide on how to enroll new users and organizations into a Fabric network using tools like Fabric CA (Certificate Authority). Additionally, students will discuss best practices for securing user identities and ensuring proper access control within a Fabric network.
+
+Instructions:
+
+Membership Services and Identity Management:
+
+Provide an explanation of membership services and their role in Hyperledger Fabric.
+Describe why identity management is essential in a Fabric network, especially in terms of security and access control.
+Fabric CA Guide:
+
+Create a step-by-step guide on how to enroll new users and organizations into a Hyperledger Fabric network using Fabric CA.
+Include instructions on installing and configuring Fabric CA, generating cryptographic material (certificates), and enrolling users and organizations.
+Demonstrate how users can obtain their cryptographic credentials (certificates) from Fabric CA.
+Securing User Identities:
+
+Discuss best practices for securing user identities and cryptographic keys.
+Explain how to manage, rotate, and revoke user certificates to maintain security.
+Highlight the importance of protecting private keys and ensuring confidentiality.
+Access Control:
+
+Describe how identity management and user enrollment tie into access control within a Fabric network.
+Explain how Fabric policies and ACLs (Access Control Lists) are used to control access to resources and transactions.
+Provide examples of scenarios where access control is crucial in a Fabric network.
+Conclusion:
+
+Summarize the key takeaways regarding membership services, identity management, and access control in Hyperledger Fabric.
+Submission Requirements:
+
+Students are required to submit a document or report that includes the following:
+
+Explanation of membership services and identity management.
+Step-by-step guide on using Fabric CA for user and organization enrollment.
+Discussion of best practices for securing user identities.
+Explanation of access control mechanisms in Fabric.
+Grading Criteria:
+
+This assignment will be evaluated based on the following criteria:
+
+Clarity and comprehensiveness of the Fabric CA enrollment guide.
+Quality of the discussion on securing user identities.
+Explanation of access control concepts and their importance.
+Overall organization and presentation of the assignment.

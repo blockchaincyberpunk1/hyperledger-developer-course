@@ -1,0 +1,35 @@
+Blockchain Types and Characteristics
+
+Objective: Explore different types of blockchains and their characteristics.
+
+Assignment Description:
+
+In this assignment, students will dive deeper into blockchain technology by exploring the various types of blockchains: public, private, and consortium. They will analyze the key characteristics that distinguish these blockchain types, including their consensus mechanisms, accessibility, and use cases. By the end of this assignment, students should have a clear understanding of when and where each type of blockchain is most suitable, particularly in enterprise scenarios.
+
+Instructions:
+
+Blockchain Types:
+
+Begin by explaining to students that blockchains can be categorized into three main types: public, private, and consortium.
+Provide a brief overview of each type and mention some well-known examples for context (e.g., Ethereum for public, Hyperledger Fabric for private, R3 Corda for consortium).
+Characteristics Analysis:
+
+Instruct students to analyze and compare the key characteristics of these blockchain types:
+Consensus Mechanism: Describe the consensus mechanism typically used in each type (e.g., Proof of Work, Proof of Stake, Practical Byzantine Fault Tolerance).
+Accessibility: Discuss who can participate in the blockchain network (e.g., anyone in the case of public, selected participants in private, a predefined group in consortium).
+Use Cases: Highlight the types of use cases or applications where each blockchain type excels (e.g., public for cryptocurrencies, private for supply chain, consortium for financial networks).
+Suitability for Enterprise Scenarios:
+
+Encourage students to explore specific enterprise scenarios or industries where each blockchain type may be the most suitable.
+For instance, they can discuss financial institutions preferring consortium blockchains for interbank settlements due to privacy requirements.
+Comparative Analysis:
+
+Ask students to create a comparative analysis chart or table that summarizes the characteristics and suitable use cases for each blockchain type.
+The chart should help visualize the distinctions between these blockchain types.
+Grading Criteria:
+
+Your assignment will be evaluated based on the following criteria:
+
+The depth of analysis and understanding of the characteristics of public, private, and consortium blockchains.
+The clarity and accuracy of the comparison between these blockchain types.
+The ability to identify and justify the suitability of each blockchain type in specific enterprise scenarios.

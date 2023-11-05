@@ -1,0 +1,39 @@
+Setting Up a Basic Fabric Network
+
+Objective: The objective of this assignment is to provide students with hands-on experience in setting up a simple Hyperledger Fabric network. By following step-by-step instructions, students will learn the fundamental concepts of Fabric network deployment, organization creation, channel configuration, and chaincode deployment.
+
+Assignment Description:
+
+In this assignment, students will set up a basic Hyperledger Fabric network using Docker Compose. They will create organizations, configure channels, and deploy a sample chaincode onto the network. The assignment focuses on practical implementation and problem-solving skills.
+
+Instructions:
+
+Environment Setup:
+
+Guide students to set up the necessary development environment, including Docker and Docker Compose. Ensure that students have access to the required resources and tools.
+Network Creation:
+
+Provide step-by-step instructions for creating a basic Hyperledger Fabric network using Docker Compose. The network should include the following components:
+Two or more organizations (e.g., Org1 and Org2).
+Peers for each organization.
+A single-channel configuration.
+Orderer nodes.
+Configure the network to ensure that peers from different organizations can communicate.
+Chaincode Deployment:
+
+Instruct students to deploy a sample chaincode onto the Fabric network. The chaincode can be a basic "Hello World" example or a simple asset management chaincode.
+Ensure that students understand the process of packaging, installing, and instantiating the chaincode on the network.
+Transaction Demonstration:
+
+Ask students to demonstrate a successful transaction on the network using the deployed chaincode. This can be as simple as transferring an asset or invoking a chaincode function to showcase the network's functionality.
+Documentation:
+
+Require students to document the entire setup process, including any challenges or issues they encountered during network deployment. They should explain how they resolved these challenges or sought assistance.
+Grading Criteria:
+
+This assignment will be evaluated based on the following criteria:
+
+The successful setup of a basic Hyperledger Fabric network.
+The deployment and instantiation of a sample chaincode.
+The ability to demonstrate a working transaction on the network.
+The completeness and clarity of the documentation, including descriptions of challenges and their resolutions.

@@ -1,0 +1,50 @@
+Chaincode Lifecycle in Hyperledger Fabric
+
+Objective: The objective of this assignment is to help students gain a comprehensive understanding of the lifecycle of chaincode in Hyperledger Fabric, from installation to instantiation and versioning.
+
+Assignment Description:
+
+In this assignment, students will explore the various stages of the chaincode lifecycle in Hyperledger Fabric. They will create a step-by-step guide for installing and instantiating chaincode using a programming language of their choice (e.g., Go, Node.js). Additionally, students will understand the chaincode versioning process and how to perform upgrades.
+
+Instructions:
+
+Introduction to Chaincode Lifecycle:
+
+Begin by providing an overview of what chaincode is in Hyperledger Fabric and its role in facilitating smart contract functionality.
+Stages in the Chaincode Lifecycle:
+
+Describe and explain the following stages in the chaincode lifecycle:
+Installation: The process of installing chaincode on peer nodes.
+Approval: How chaincode is approved by organizations to be used on the network.
+Instantiation: The process of creating an instance of chaincode on a channel.
+Invocation: How chaincode functions are invoked to interact with the ledger.
+Step-by-Step Guide for Installation and Instantiation:
+
+Provide a detailed step-by-step guide for students to install and instantiate chaincode in a Hyperledger Fabric network. This guide should include:
+Preparing the development environment.
+Writing chaincode using a programming language (e.g., Go or Node.js).
+Packaging the chaincode.
+Installing the chaincode on peer nodes.
+Approving the chaincode definition.
+Instantiating the chaincode on a channel.
+Invoking chaincode functions.
+Chaincode Versioning and Upgrades:
+
+Explain the concept of chaincode versioning in Hyperledger Fabric and why it is important.
+Describe how to perform a chaincode upgrade, including the steps involved and considerations for backward compatibility.
+Submission Requirements:
+
+Students are required to submit a document that includes the following:
+
+An introduction to the chaincode lifecycle.
+Detailed explanations of each stage in the chaincode lifecycle.
+A step-by-step guide for installing and instantiating chaincode.
+An explanation of chaincode versioning and upgrade processes.
+Grading Criteria:
+
+This assignment will be evaluated based on the following criteria:
+
+Clarity and accuracy of the explanations for each stage in the chaincode lifecycle.
+Completeness and correctness of the step-by-step guide for installation and instantiation.
+Understanding of chaincode versioning and upgrade processes.
+Overall organization and presentation of the assignment.

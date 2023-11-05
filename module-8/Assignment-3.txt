@@ -1,0 +1,43 @@
+ Documentation Review
+
+Objective: The objective of this assignment is to emphasize the importance of staying informed through official documentation in the Hyperledger ecosystem.
+
+Assignment Description:
+
+In this assignment, students will select a specific Hyperledger project or tool that they find interesting and relevant to their course. They will then thoroughly review the official documentation of the selected project, including user guides, developer guides, and release notes. The goal is to gain a deep understanding of the project's features, functionalities, and best practices as provided by the official documentation.
+
+After reviewing the documentation, students will prepare a presentation that summarizes the essential information they found in the documentation. The presentation should cover key aspects of the project, including its purpose, architecture, usage, and any best practices recommended by the documentation. Students should also discuss how this exercise improved their knowledge and how it can benefit the broader Hyperledger community.
+
+Instructions:
+
+Select a Hyperledger Project or Tool:
+
+Choose a specific Hyperledger project or tool that you find interesting and relevant to your course or area of study.
+Review Official Documentation:
+
+Thoroughly review the official documentation of the selected project. This documentation may include:
+User guides: Explain how to use the project or tool.
+Developer guides: Provide information for developers on how to integrate or work with the project.
+Release notes: Detail the changes and updates in different versions of the project.
+Prepare a Presentation:
+
+Create a presentation summarizing the essential information from the documentation.
+Include key aspects such as the project's purpose, architecture, usage, and any best practices recommended.
+Discuss how this exercise improved your understanding of the project.
+Present Your Findings:
+
+Deliver the presentation to your classmates or instructor, sharing your insights from the documentation review.
+Encourage discussion and questions from your peers.
+Submission Requirements:
+
+Students are required to submit the following:
+
+A presentation summarizing the essential information from the official documentation of the selected Hyperledger project or tool.
+A brief written reflection on how this exercise improved their knowledge and understanding of the project and how it can benefit the broader Hyperledger community.
+Grading Criteria:
+
+This assignment will be evaluated based on the following criteria:
+
+Thoroughness and completeness of the documentation review.
+Clarity and depth of insights shared in the presentation.
+The quality of the written reflection on the benefits of this exercise for both the student and the Hyperledger community.

@@ -1,0 +1,38 @@
+Security Considerations in Hyperledger Fabric
+
+Objective: The objective of this assignment is to familiarize students with the critical security considerations and best practices when working with Hyperledger Fabric. Students will research and document security challenges, explore access control mechanisms, and understand the importance of encryption in securing a Fabric network.
+
+Assignment Description:
+
+In this assignment, students will delve into security considerations within the context of a Hyperledger Fabric network. They will research key security challenges, access control mechanisms, and encryption methods to develop a comprehensive understanding of securing Fabric-based blockchain solutions.
+
+Instructions:
+
+Research Security Challenges:
+
+Instruct students to research and document common security challenges and threats that can affect a Hyperledger Fabric network. Encourage them to consider various aspects such as network architecture, smart contracts, and identity management.
+Access Control Mechanisms:
+
+Describe the role of access control in securing a Fabric network. Provide an overview of how access control mechanisms help restrict unauthorized access to network resources.
+Require students to provide examples of access control mechanisms that can be implemented in a Fabric network, such as Identity and Access Management (IAM) policies or Attribute-Based Access Control (ABAC).
+Encryption in Transit and at Rest:
+
+Discuss the importance of encryption in ensuring the security of data in transit and at rest within a Fabric network. Explain how encryption mechanisms safeguard sensitive information from eavesdropping and unauthorized access.
+Encourage students to explore encryption methods and protocols that can be applied to Fabric communication and data storage.
+Security Documentation:
+
+Ask students to document their findings and research in a structured manner. They should provide clear explanations for each security consideration, access control mechanism, and encryption method.
+Encourage them to use examples and scenarios to illustrate how these security measures are applied in a Fabric network.
+Discussion:
+
+Conclude the assignment with a discussion on the importance of security in blockchain networks and how security measures impact the trustworthiness and reliability of Fabric-based solutions.
+Invite students to share their insights and reflections on the security challenges and practices they've learned about.
+Grading Criteria:
+
+This assignment will be evaluated based on the following criteria:
+
+The depth and accuracy of the research on security challenges and threats in Hyperledger Fabric.
+The quality of explanations and examples provided for access control mechanisms.
+The comprehension of encryption methods and their relevance to securing data in transit and at rest within a Fabric network.
+The clarity and organization of the documentation, including the use of relevant examples and scenarios.
+Active participation in the concluding discussion, demonstrating an understanding of the significance of security in blockchain networks.

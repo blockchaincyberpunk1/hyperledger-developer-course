@@ -1,0 +1,40 @@
+Chaincode Development in Hyperledger Fabric
+
+Objective: Gain practical experience in developing chaincode (smart contracts) for Hyperledger Fabric.
+
+Assignment Description:
+
+In this assignment, you will explore the process of developing chaincode, which is the smart contract logic that executes on a Hyperledger Fabric network. You will choose a use case and develop a basic chaincode using a programming language of your choice (e.g., Go, Node.js). Additionally, you will provide an explanation of the chaincode's purpose and functionality.
+
+Instructions:
+
+Use Case Selection:
+
+Choose a specific use case or scenario for which you will develop a simple chaincode. The use case should involve interactions and transactions between participants in a blockchain network (e.g., asset transfer, supply chain tracking, identity management).
+Chaincode Development:
+
+Select a programming language (e.g., Go, Node.js) for developing your chaincode.
+Write a basic chaincode that implements the logic required to fulfill the chosen use case.
+Ensure that your chaincode includes functions for initiating transactions, querying ledger data, and performing any necessary business logic.
+Document the code thoroughly with comments to explain the purpose and functionality of each section.
+Explanation of Chaincode:
+
+Provide a detailed explanation of the purpose and functionality of your chaincode. Include:
+The use case it addresses.
+The key functions and methods within the chaincode.
+How it interacts with the ledger and other components of the Hyperledger Fabric network.
+Any specific rules or conditions implemented in the chaincode.
+Testing and Deployment (Optional):
+
+If possible, test your chaincode in a local development environment or on a test network.
+Share any insights or challenges faced during the testing phase.
+Note that deployment on a production Fabric network is optional for this assignment.
+Grading Criteria:
+
+Your assignment will be evaluated based on the following criteria:
+
+The choice of a suitable use case for the chaincode.
+The quality of the chaincode developed, including its correctness, clarity, and adherence to best practices.
+The depth and clarity of your explanation of the chaincode's purpose and functionality.
+The completeness of your documentation, including comments in the code.
+(Optional) The successful testing and, if applicable, deployment of the chaincode.

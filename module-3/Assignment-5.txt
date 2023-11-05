@@ -1,0 +1,41 @@
+Development Environment Optimization
+
+Objective: The goal of this assignment is to encourage students to explore and implement strategies for optimizing their Hyperledger Fabric development environment. By doing so, they will learn how to enhance efficiency in their development workflow. This assignment will also help students evaluate the impact of these optimizations on key factors such as build and deployment times.
+
+Assignment Description:
+
+In this assignment, students will focus on optimizing their Hyperledger Fabric development environment. They will explore various strategies and tools that can be used to streamline the development process. Students will implement these optimizations and assess their impact on the efficiency and productivity of their development workflow.
+
+Instructions:
+
+Optimization Strategies:
+
+Instruct students to research and identify strategies for optimizing a Hyperledger Fabric development environment. These strategies may include:
+Using development scripts or automation tools to simplify common tasks.
+Creating Docker images with pre-configured settings.
+Utilizing prebuilt Fabric networks for development and testing.
+Encourage students to explore additional strategies based on their research.
+Implementation:
+
+Ask students to choose one or more optimization strategies to implement in their Hyperledger Fabric development environment.
+Provide guidance on how to apply the chosen strategies effectively.
+Evaluation:
+
+Instruct students to evaluate the impact of the optimizations on their development workflow. They should consider factors such as:
+Build times for chaincode.
+Deployment times for networks and smart contracts.
+Ease of setting up and tearing down development environments.
+Overall development productivity.
+Encourage students to gather quantitative data or conduct before-and-after comparisons to assess the improvements.
+Documentation:
+
+Require students to document their chosen optimization strategies, the implementation process, and the results of their evaluation.
+Ask them to provide insights into the benefits and potential drawbacks of the optimizations.
+Grading Criteria:
+
+This assignment will be evaluated based on the following criteria:
+
+The choice and effectiveness of optimization strategies implemented.
+The quality of documentation related to optimization implementation and evaluation.
+The depth and clarity of the evaluation, including the impact of optimizations on development workflow.
+The ability to provide practical insights into the benefits and potential limitations of the optimizations.

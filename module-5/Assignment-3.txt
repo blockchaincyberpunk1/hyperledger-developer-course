@@ -1,0 +1,34 @@
+Private Data Collections in Hyperledger Fabric
+
+Objective: The objective of this assignment is to introduce students to the concept of private data collections in Hyperledger Fabric and enable them to set up and configure private data collections within a Fabric network. Students will explore the need for privacy in blockchain applications and understand the practical implementation of private data collections.
+
+Assignment Description:
+
+In this assignment, students will gain insights into the importance of private data collections within a Hyperledger Fabric network. They will set up a private data collection, define access control policies, and identify use cases where private data collections offer significant advantages.
+
+Instructions:
+
+Introduction to Private Data Collections:
+
+Begin the assignment by providing students with an overview of private data collections in Hyperledger Fabric. Explain why privacy is crucial in certain blockchain use cases and how private data collections address this need.
+Setting Up a Private Data Collection:
+
+Task students with setting up a private data collection within their existing Fabric network. They should choose a specific use case (e.g., healthcare records, supply chain details) where privacy is a concern.
+Instruct students to define which organizations will participate in the private data collection and have access to its data. They should also specify the data structure to be stored privately.
+Access Control Policies:
+
+Discuss the role of access control policies in private data collections. Students should configure policies that determine which organizations are authorized to read and update the private data.
+Encourage students to implement access control rules that align with the use case they selected.
+Use Cases Discussion:
+
+Organize a class discussion or presentation where students share examples of use cases where private data collections are valuable. They should explain why using private data collections is more suitable than public data for these scenarios.
+Discuss the trade-offs between using public data (stored on the public ledger) and private data (stored in private data collections) in terms of transparency, efficiency, and privacy.
+Grading Criteria:
+
+This assignment will be evaluated based on the following criteria:
+
+The successful setup and configuration of a private data collection within the Fabric network.
+The clarity and appropriateness of access control policies for the private data collection.
+The quality of use case examples and their alignment with the concept of private data collections.
+Active participation in the discussion, showcasing an understanding of when and why private data collections are essential in blockchain applications.
+The organization and clarity of the assignment documentation.

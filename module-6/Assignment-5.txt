@@ -1,0 +1,48 @@
+ Hyperledger Fabric and External Systems
+
+Objective: The objective of this assignment is to learn how Hyperledger Fabric interacts with external systems and services.
+
+Assignment Description:
+
+In this assignment, students will research and explain various integration options for connecting Hyperledger Fabric with external databases, applications, or services. They will choose one integration scenario, demonstrate how to implement it in a Fabric network, and discuss the benefits of integrating Fabric with external systems and potential use cases.
+
+Instructions:
+
+Integration Options:
+
+Research and document various integration options for connecting Hyperledger Fabric with external systems. Include options such as databases, web services, and IoT platforms.
+Explain the importance of integrating Fabric with external systems in real-world blockchain applications.
+Choose an Integration Scenario:
+
+Select one integration scenario from the options you've researched. This scenario should involve integrating Fabric with an external system or service.
+Provide a brief description of the chosen scenario.
+Implementation of Integration:
+
+Demonstrate how to implement the chosen integration scenario in a Hyperledger Fabric network.
+Provide step-by-step instructions, code snippets, or configuration settings to illustrate the integration process.
+Benefits of Integration:
+
+Discuss the benefits of integrating Hyperledger Fabric with the external system or service in your chosen scenario.
+Highlight how this integration enhances the functionality or capabilities of the Fabric network.
+Potential Use Cases:
+
+Explore and list potential use cases where the integration of Hyperledger Fabric with external systems can be beneficial.
+Provide examples from industries or domains where such integrations are valuable.
+Conclusion:
+
+Summarize the key takeaways regarding Hyperledger Fabric's interaction with external systems and the advantages of integration.
+Submission Requirements:
+
+Students are required to submit a document or report that includes the following:
+
+Explanation of integration options for connecting Hyperledger Fabric with external systems.
+Description and demonstration of the chosen integration scenario.
+Discussion of the benefits of integration and potential use cases.
+Grading Criteria:
+
+This assignment will be evaluated based on the following criteria:
+
+Clarity and depth of explanations regarding integration options.
+Quality of the chosen integration scenario and its implementation.
+Discussion of the benefits and potential use cases of integrating Fabric with external systems.
+Overall organization and presentation of the assignment.

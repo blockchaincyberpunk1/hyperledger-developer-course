@@ -1,0 +1,44 @@
+Hyperledger Fabric Security Audit
+
+Objective: The objective of this assignment is to provide students with hands-on experience in conducting a security audit of a Hyperledger Fabric network. By analyzing configurations and access control policies, students will identify potential vulnerabilities and propose solutions to enhance the security of the network.
+
+Assignment Description:
+
+In this assignment, students will act as security auditors tasked with assessing the security of a Hyperledger Fabric network. They will review the network's configurations, access control policies, and other relevant settings to identify any potential security risks or vulnerabilities. After the audit, students will present their findings in a comprehensive report, including recommendations for improving network security.
+
+Instructions:
+
+Selecting a Hyperledger Fabric Network:
+
+Instruct students to choose a Hyperledger Fabric network to audit. This network can be either a real-world implementation (if available) or a simulated network provided for the assignment.
+Security Audit Process:
+
+Guide students through the steps of conducting a security audit, emphasizing the importance of a systematic approach. Encourage them to:
+Review the network's configuration files, including configtx.yaml, crypto-config.yaml, and core.yaml.
+Examine the access control policies defined for organizations and channels.
+Analyze the use of Transport Layer Security (TLS) encryption and certificates.
+Assess the overall architecture of the network to identify potential attack vectors.
+Identify Security Risks:
+
+Task students with identifying security risks, vulnerabilities, or misconfigurations within the Fabric network based on their audit. They should provide concrete examples and descriptions of these issues.
+Propose Security Enhancements:
+
+Require students to propose solutions or enhancements to mitigate the identified security risks. These solutions may include revising access control policies, improving certificate management, or making changes to configuration files.
+Comprehensive Security Report:
+
+Instruct students to compile their findings and recommendations into a comprehensive security audit report. The report should include the following sections:
+Executive summary: A brief overview of the audit's purpose and key findings.
+Methodology: Explanation of the audit process and tools used (if any).
+Findings: A detailed list of security risks and vulnerabilities discovered.
+Recommendations: Clear and actionable recommendations for improving network security.
+Conclusion: A summary of the audit's outcomes and the importance of maintaining robust security in blockchain networks.
+Appendices: Any supplementary information, diagrams, or evidence to support the findings.
+Grading Criteria:
+
+This assignment will be evaluated based on the following criteria:
+
+Thoroughness and accuracy of the security audit process.
+Clarity and completeness of the security audit report.
+Identification of significant security risks and vulnerabilities.
+Practicality and effectiveness of proposed security enhancements.
+Ability to communicate complex technical findings effectively.

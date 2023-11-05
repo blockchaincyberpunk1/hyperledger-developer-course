@@ -1,0 +1,47 @@
+Fabric Network Monitoring
+
+Objective: The objective of this assignment is to help students understand the importance of monitoring in maintaining a healthy Hyperledger Fabric network. Students will learn about key performance metrics and indicators to monitor, explore monitoring tools and platforms, and create a monitoring plan for a sample Fabric network.
+
+Assignment Description:
+
+In this assignment, students will delve into the critical aspect of monitoring in Hyperledger Fabric network maintenance. They will describe the key performance metrics and indicators that should be monitored to ensure the network's health and stability. Additionally, students will research and recommend monitoring tools and platforms that are suitable for tracking these metrics in a Fabric network.
+
+Lastly, students will create a comprehensive monitoring plan for a sample Fabric network. This plan will outline the specific metrics to be tracked, thresholds for these metrics, and actions to take in case of anomalies or performance issues.
+
+Instructions:
+
+Key Performance Metrics and Indicators:
+
+Describe the importance of monitoring in maintaining the health of a Hyperledger Fabric network.
+Research and provide a list of key performance metrics and indicators that should be monitored in a Fabric network. Include metrics related to peers, orderers, channels, and transactions.
+Explain why each of these metrics is crucial for network health and performance.
+Monitoring Tools and Platforms:
+
+Research and recommend monitoring tools and platforms that are suitable for tracking the identified metrics in a Fabric network.
+Provide brief explanations of the features and capabilities of each recommended tool or platform.
+Monitoring Plan:
+
+Create a monitoring plan for a sample Hyperledger Fabric network.
+Outline the specific metrics to be tracked, including their names and descriptions.
+Set thresholds or acceptable ranges for each metric, beyond which anomalies should be flagged.
+Describe the actions or alerts that should be triggered when a metric exceeds its threshold.
+Include a section on periodic reporting and analysis of historical data for trend identification.
+Benefits of Monitoring:
+
+Explain the benefits of continuous monitoring in terms of network stability, performance optimization, and proactive issue resolution.
+Submission Requirements:
+
+Students are required to submit a document or report that includes the following:
+
+Descriptions of key performance metrics and indicators for Fabric network monitoring.
+Recommendations for suitable monitoring tools and platforms.
+A monitoring plan for a sample Fabric network, including tracked metrics, thresholds, and actions.
+An explanation of the benefits of monitoring in a Fabric network.
+Grading Criteria:
+
+This assignment will be evaluated based on the following criteria:
+
+Clarity and completeness of the descriptions of key metrics and indicators.
+Quality and relevance of recommended monitoring tools and platforms.
+Completeness and effectiveness of the monitoring plan.
+Clear explanations of the benefits of continuous monitoring.

@@ -1,0 +1,47 @@
+Tutorial Creation
+
+Objective: The objective of this assignment is to promote active learning and knowledge sharing within the Hyperledger community by creating a tutorial on a specific Hyperledger project or technology.
+
+Assignment Description:
+
+In this assignment, students will have the opportunity to become educators and share their expertise on a Hyperledger project or technology. The task is to create a step-by-step tutorial or guide that helps others understand and work with the chosen Hyperledger project or technology. The tutorial should be designed to make it easy for readers to follow along, and it should include code snippets, screenshots, and clear explanations.
+
+Students can choose any Hyperledger project or technology that they are familiar with or interested in. The goal is to empower others in the Hyperledger community by providing them with valuable resources for learning and working with Hyperledger tools.
+
+Instructions:
+
+Select a Hyperledger Project or Technology:
+
+Choose a specific Hyperledger project or technology that you are knowledgeable about or passionate about learning.
+Plan Your Tutorial:
+
+Outline the structure and content of your tutorial. Consider the following:
+What problem or use case does the project or technology address?
+What are the prerequisites for readers (e.g., knowledge of blockchain concepts, software installations)?
+How will you break down the tutorial into steps?
+Create Your Tutorial:
+
+Develop the tutorial, following your outline.
+Include code snippets, screenshots, and clear explanations for each step.
+Ensure that the tutorial is beginner-friendly and easy to follow.
+Test Your Tutorial:
+
+Go through your tutorial as if you were a learner to ensure it works as intended.
+Make any necessary revisions based on your testing.
+Share Your Tutorial:
+
+Share your tutorial with your classmates, instructor, or on a platform of your choice, such as a personal blog, GitHub, or a relevant Hyperledger community forum.
+Encourage feedback and questions from the community.
+Submission Requirements:
+
+Students are required to submit the following:
+
+The completed tutorial or guide on the chosen Hyperledger project or technology.
+Grading Criteria:
+
+This assignment will be evaluated based on the following criteria:
+
+Clarity and effectiveness of the tutorial's content and structure.
+Inclusion of code snippets, screenshots, and clear explanations.
+Relevance and educational value of the tutorial for the Hyperledger community.
+Contribution to knowledge sharing and learning within the community.

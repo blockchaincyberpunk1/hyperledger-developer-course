@@ -1,0 +1,41 @@
+Transition from Hyperledger Composer
+
+Objective: Familiarize students with alternatives to Hyperledger Composer for blockchain application development and provide insights into the advantages and limitations of these alternatives.
+
+Assignment Description:
+
+In this assignment, you will explore alternatives to Hyperledger Composer, which is now a legacy project, for developing blockchain applications within the Hyperledger ecosystem. By comparing these alternatives, you will gain a better understanding of the available tools and frameworks for blockchain development and be prepared to make informed choices for future projects. Your task includes researching, comparing, and providing recommendations on the best tool for specific use cases.
+
+Instructions:
+
+Research Alternative Tools:
+
+Identify and research at least two alternative tools or frameworks within the Hyperledger ecosystem that can be used for blockchain application development. Examples include Hyperledger Fabric SDKs (Node.js, Java, Go), Hyperledger Cactus, or others.
+Comparison:
+
+Compare the selected alternatives to Hyperledger Composer in terms of the following aspects:
+Ease of Development: Assess the ease with which developers can create and manage smart contracts, transactions, and business logic.
+Flexibility: Evaluate the flexibility of the tools in terms of customization and adaptability to different use cases.
+Supported Languages: Determine which programming languages are supported for smart contract development.
+Community Support: Analyze the level of community support, active development, and resources available for learning and troubleshooting.
+Integration Capabilities: Investigate how well the tools integrate with other Hyperledger components and external systems.
+Use Cases: Provide examples of use cases or scenarios where each alternative might be particularly well-suited.
+Advantages and Limitations:
+
+Highlight the advantages and limitations of each alternative, emphasizing how they differ from Hyperledger Composer.
+Recommendations:
+
+Based on your analysis, provide recommendations for choosing the most suitable tool or framework for specific types of blockchain projects or use cases.
+Explain the criteria that should guide the selection process when deciding between these alternatives.
+Optional: Real-World Examples:
+
+If available, include real-world examples or case studies of projects that have successfully used the alternatives you researched.
+Grading Criteria:
+
+Your assignment will be evaluated based on the following criteria:
+
+Thoroughness and accuracy of the research on alternative tools and frameworks.
+Comprehensive comparison of the alternatives to Hyperledger Composer, covering key aspects.
+Clarity in explaining the advantages and limitations of each alternative.
+Well-founded recommendations for selecting the appropriate tool or framework based on project requirements.
+(Optional) Use of real-world examples or case studies to support your findings.

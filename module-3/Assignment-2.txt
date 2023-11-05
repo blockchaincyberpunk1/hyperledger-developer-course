@@ -1,0 +1,43 @@
+Chaincode Development in Go
+
+Objective: Gain hands-on experience in developing smart contracts (chaincode) using the Go programming language for Hyperledger Fabric.
+
+Assignment Description:
+
+In this assignment, students will learn how to develop smart contracts (chaincode) in Go for Hyperledger Fabric. They will choose a simple use case, design the data structure for their chaincode, and implement the functions necessary to interact with and manipulate assets in the chosen use case. After completing the chaincode, students will test it on their local Fabric network and provide a demonstration of its functionality.
+
+Instructions:
+
+Use Case Selection:
+
+Encourage students to select a straightforward use case for their chaincode development (e.g., asset management, inventory tracking).
+Ask them to define the data structure for their use case (e.g., asset attributes, ownership details).
+Chaincode Development:
+
+Provide a template or basic structure for a Go chaincode to help students get started.
+Instruct students to write the Go code for their chaincode, including functions for creating, updating, and querying assets.
+Explain how to use the Hyperledger Fabric SDK for Go to interact with the Fabric network from within the chaincode.
+Local Network Setup:
+
+Ensure that students have completed Homework Assignment 1 and have a local Hyperledger Fabric network running using Docker and Docker Compose.
+Testing and Demonstration:
+
+Instruct students to deploy their chaincode onto their local Fabric network.
+Provide sample transactions or actions that students should execute to demonstrate the functionality of their chaincode.
+Encourage students to capture the demonstration in a video or a set of detailed steps with accompanying screenshots.
+Documentation:
+
+Require students to document the following aspects:
+Description of the chosen use case and data structure.
+Code explanations and comments within their chaincode.
+Steps for deploying and testing the chaincode on the local Fabric network.
+The demonstration of the chaincode's functionality, including the sample transactions or actions.
+Grading Criteria:
+
+This assignment will be assessed based on the following criteria:
+
+Successful implementation of the chaincode in Go.
+Proper documentation of the use case, data structure, and code.
+Accurate deployment and testing of the chaincode on the local Fabric network.
+Clear and effective demonstration of the chaincode's functionality.
+Quality of documentation and adherence to assignment guidelines.

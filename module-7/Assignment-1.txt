@@ -1,0 +1,47 @@
+Fabric Deployment Strategies
+
+Objective: The objective of this assignment is to explore different strategies for deploying Hyperledger Fabric networks based on specific use cases and to understand the considerations, advantages, and disadvantages of each deployment option.
+
+Assignment Description:
+
+In this assignment, students will research and describe various deployment options for Hyperledger Fabric networks. They will compare and contrast the advantages and disadvantages of each strategy and provide a real-world case study of a project that implemented one of these deployment strategies, explaining the reasons for their choice.
+
+Instructions:
+
+Deployment Strategies:
+
+Research and document the following deployment strategies for Hyperledger Fabric networks:
+On-premises deployment
+Cloud-based deployment (e.g., AWS, Azure)
+Hybrid deployment (combining on-premises and cloud resources)
+Explain the key characteristics and considerations associated with each deployment option.
+Advantages and Disadvantages:
+
+Compare and contrast the advantages and disadvantages of the three deployment strategies.
+Consider factors such as cost, scalability, security, and flexibility when evaluating these options.
+Real-World Case Study:
+
+Select a real-world project that has implemented one of the deployment strategies mentioned above. You can use publicly available case studies or articles.
+Describe the project, its objectives, and the specific use case for which Hyperledger Fabric was deployed.
+Explain why the project chose the particular deployment strategy and how it aligned with their goals.
+Analysis and Conclusion:
+
+Provide an analysis of the case study, focusing on the success factors and challenges faced during deployment.
+Summarize the main takeaways and lessons learned from the case study.
+Offer insights into how the deployment strategy contributed to the project's overall success.
+Submission Requirements:
+
+Students are required to submit a document or report that includes the following:
+
+Descriptions of the deployment strategies with considerations for each.
+A comparative analysis of the advantages and disadvantages of the deployment strategies.
+A case study description and analysis, including the reasons for the chosen deployment strategy.
+Conclusions and insights based on the case study analysis.
+Grading Criteria:
+
+This assignment will be evaluated based on the following criteria:
+
+Thoroughness and clarity of descriptions for each deployment strategy.
+Comprehensive comparison of advantages and disadvantages.
+Quality of the selected case study and the relevance of the chosen deployment strategy.
+Analysis of the case study and the ability to draw meaningful conclusions.

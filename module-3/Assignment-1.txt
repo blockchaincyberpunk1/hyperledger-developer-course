@@ -1,0 +1,38 @@
+ Docker and Hyperledger Fabric Setup
+
+Objective: Help students set up the essential development environment for Hyperledger Fabric, including Docker and a local Fabric network.
+
+Assignment Description:
+
+In this assignment, you will guide students through the process of setting up their development environment for Hyperledger Fabric. This includes installing Docker and configuring it properly to run Hyperledger Fabric containers. Additionally, you will instruct them on deploying a basic Hyperledger Fabric network using Docker Compose. Students will document their installation steps and any challenges faced during the setup.
+
+Instructions:
+
+Install Docker:
+
+Provide instructions for installing Docker on your preferred operating system (Linux, Windows, macOS).
+Ensure that students follow best practices for Docker installation and security.
+Docker Configuration:
+
+Explain how to configure Docker to allocate sufficient resources (CPU, memory) for Hyperledger Fabric containers.
+Hyperledger Fabric Setup:
+
+Share a basic Docker Compose configuration file for a local Hyperledger Fabric network. This configuration should include peers and orderers.
+Instruct students on how to use Docker Compose to start the Fabric network.
+Explain the purpose of peers and orderers in a Fabric network.
+Documentation:
+
+Require students to document the step-by-step process of installing Docker, configuring it, and setting up the local Fabric network.
+Encourage them to take note of any challenges, errors, or solutions they encounter during the setup.
+Testing:
+
+Verify that the Fabric network is running correctly by creating a simple smart contract and submitting transactions (this can be optional depending on the course's depth).
+Grading Criteria:
+
+This assignment will be assessed based on the following criteria:
+
+Successful installation and configuration of Docker.
+Proper configuration of Docker to allocate necessary resources.
+Accurate setup of a local Hyperledger Fabric network using Docker Compose.
+Comprehensive documentation of installation steps and any challenges faced.
+Optional: Correct execution of simple transactions on the Fabric network (if included).

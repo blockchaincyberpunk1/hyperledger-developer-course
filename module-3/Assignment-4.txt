@@ -1,0 +1,41 @@
+Chaincode Testing and Debugging
+
+Objective: This assignment is designed to emphasize the significance of thorough testing and effective debugging in the context of smart contracts (chaincode) development for Hyperledger Fabric. It aims to ensure that students understand how to write comprehensive test cases, identify and address issues, and reflect on the importance of testing in blockchain development.
+
+Assignment Description:
+
+In this assignment, students will focus on testing and debugging their previously developed Go or Node.js chaincode for Hyperledger Fabric. They will write a set of test cases to verify the functionality and correctness of their chaincode. Students will also encounter issues or errors during the testing process, which they must document and then provide solutions or improvements to resolve these issues.
+
+Additionally, students will reflect on the importance of thorough testing in blockchain development and how it contributes to the reliability of smart contracts.
+
+Instructions:
+
+Test Case Development:
+
+Instruct students to write a set of test cases to thoroughly evaluate the functionality and correctness of their Go or Node.js chaincode.
+Test cases should cover various scenarios, including normal transactions, edge cases, and potential error conditions.
+Explain the use of assertions or validation checks to ensure that the chaincode behaves as expected in response to different inputs.
+Testing and Debugging:
+
+Guide students to execute their test cases against their chaincode on their local Hyperledger Fabric network.
+Encourage them to carefully document any issues, errors, or unexpected behaviors encountered during testing.
+Debugging Process:
+
+Instruct students to analyze and debug the issues they encountered during testing.
+Ask them to provide clear explanations of the issues' root causes and potential solutions.
+Students should apply debugging techniques such as logging, code inspection, and data examination.
+Documentation:
+
+Require students to document the following aspects:
+The set of test cases developed.
+A detailed account of any issues or errors encountered during testing.
+The debugging process, including identified issues, root causes, and solutions or improvements.
+Reflection on the importance of thorough testing in blockchain development and how it contributes to the reliability of smart contracts.
+Grading Criteria:
+
+This assignment will be evaluated based on the following criteria:
+
+The comprehensiveness and effectiveness of the test cases.
+The quality of documentation related to testing, including encountered issues and debugging processes.
+The clarity and thoroughness of issue identification and debugging.
+The depth of reflection on the importance of testing in blockchain development.

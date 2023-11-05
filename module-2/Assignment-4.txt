@@ -1,0 +1,42 @@
+Fabric Network Design
+
+Objective: Gain an understanding of the considerations and best practices for designing a Hyperledger Fabric network tailored to a specific enterprise use case.
+
+Assignment Description:
+
+In this assignment, you will delve into the principles of designing a Hyperledger Fabric network that aligns with the requirements of a chosen enterprise use case. By selecting a use case (e.g., supply chain, healthcare), you will have the opportunity to create an architecture that optimally addresses the needs of that specific application. Your task includes explaining the network's structure in detail, defining the roles of peers, orderers, and channels, and justifying your design choices.
+
+Instructions:
+
+Select an Enterprise Use Case:
+
+Choose an enterprise use case for which you will design a Hyperledger Fabric network. Your use case can be from any industry (e.g., supply chain, healthcare, finance).
+Network Design:
+
+Design the architecture of your Hyperledger Fabric network, considering the following aspects:
+Number of Peers: Define the number of peer nodes required in your network and explain the rationale behind this choice.
+Ordering Service: Describe the role of the ordering service and specify the number and configuration of orderer nodes.
+Channels: Define how channels will be utilized in your network, including which organizations will be part of which channels and why.
+Consensus Mechanism: Specify the consensus mechanism (e.g., Kafka-based, Raft-based) chosen for your network and justify your selection.
+Organizational Structure: Explain the organizational structure of participants in the network, including organizations, consortium members, and their roles.
+Network Security and Privacy:
+
+Discuss the security and privacy considerations specific to your chosen use case and how they are addressed in your network design.
+Scalability and Performance:
+
+Address scalability and performance requirements and describe how your network design accounts for potential growth and increased transaction loads.
+Justification and Best Practices:
+
+Provide justifications for your design decisions based on Hyperledger Fabric best practices and guidelines.
+Optional: Diagrams and Visual Aids:
+
+If applicable, include diagrams, flowcharts, or visual representations to illustrate your network architecture.
+Grading Criteria:
+
+Your assignment will be evaluated based on the following criteria:
+
+Clarity and comprehensiveness of the network design, including the number of peers, orderers, channels, and organizational structure.
+Thorough explanation of design choices, including the rationale behind selecting specific configurations and consensus mechanisms.
+Consideration of security, privacy, scalability, and performance requirements for the chosen use case.
+Alignment with Hyperledger Fabric best practices and guidelines.
+(Optional) Effective use of diagrams or visual aids to illustrate the network architecture.

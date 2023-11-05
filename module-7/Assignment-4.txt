@@ -1,0 +1,49 @@
+Fabric Network Maintenance
+
+Objective: The objective of this assignment is to familiarize students with best practices for maintaining and upgrading a Hyperledger Fabric network. Students will understand the importance of network maintenance, develop a maintenance strategy, and explore the challenges and risks associated with network upgrades.
+
+Assignment Description:
+
+In this assignment, students will delve into the critical aspects of maintaining and upgrading a Hyperledger Fabric network. They will explain why regular network maintenance and upgrades are essential for blockchain networks, highlighting the benefits of keeping the network healthy and secure.
+
+Students will then outline a comprehensive maintenance strategy that covers routine maintenance tasks such as patching, backup procedures, and data retention policies. The strategy should include details on the frequency of maintenance activities and the responsible parties.
+
+Furthermore, students will discuss the challenges and risks associated with upgrading a Fabric network to a new version. They should propose mitigation strategies and best practices to minimize downtime and ensure a smooth transition during the upgrade process.
+
+Instructions:
+
+Importance of Network Maintenance and Upgrades:
+
+Explain why regular network maintenance and upgrades are essential in Hyperledger Fabric networks.
+Highlight the benefits of network maintenance in terms of security, performance, and stability.
+Maintenance Strategy:
+
+Outline a comprehensive strategy for performing routine maintenance tasks on a Fabric network.
+Specify the frequency of maintenance activities (e.g., monthly, quarterly) and who is responsible for each task.
+Include details on the following:
+Patch management: How and when to apply patches and updates to Fabric components.
+Backup procedures: Explain how data should be backed up, where backups should be stored, and the frequency of backups.
+Data retention policies: Define policies for retaining and purging data from the network.
+Challenges and Risks in Upgrading a Fabric Network:
+
+Discuss the challenges and risks associated with upgrading a Fabric network to a new version.
+Identify potential issues such as version incompatibilities, downtime, and data migration challenges.
+Mitigation Strategies:
+
+Suggest mitigation strategies and best practices to address the challenges and risks identified.
+Provide guidance on minimizing downtime and ensuring a smooth transition during the upgrade process.
+Submission Requirements:
+
+Students are required to submit a document or report that includes the following:
+
+Explanation of the importance of network maintenance and upgrades.
+A comprehensive maintenance strategy that covers patching, backup, and data retention policies.
+A discussion of the challenges and risks associated with upgrading a Fabric network.
+Suggested mitigation strategies and best practices for network upgrades.
+Grading Criteria:
+
+This assignment will be evaluated based on the following criteria:
+
+Clarity and completeness of explanations regarding network maintenance and upgrades.
+Quality and comprehensiveness of the maintenance strategy.
+Thoughtfulness and effectiveness of proposed mitigation strategies.
